@@ -1,6 +1,6 @@
 # MarqueMS - Event Management Hall's Management System
 
-Welcome to **MarqueMS**, a comprehensive solution for managing event halls! This system simplifies the booking, scheduling, and management of event spaces, providing a seamless experience for both administrators and clients.
+Welcome to **MarqueMS**, a comprehensive solution for managing event halls! This system is to simplify the process of booking, scheduling, and management of event spaces, providing a seamless experience for both administrators and clients.
 
 ## Table of Contents
 
